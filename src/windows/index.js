@@ -5,3 +5,4 @@ export { default as Text } from './Text.jsx';
 export { default as Image } from './Image.jsx';
 export { default as Finder } from './Finder.jsx';
 export { default as Contact } from './Contact.jsx';
+export { default as Photos } from './Photos.jsx';
